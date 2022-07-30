@@ -8,6 +8,8 @@ Deployed link of Website  &thinsp; ![Project-1](https://img.shields.io/badge/Pro
 
 <br> 
 
+# Preview of the Project.
+
 ![Project-look](Project1.png)
 
 
