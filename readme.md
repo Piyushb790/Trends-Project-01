@@ -3,6 +3,8 @@ By Piyush
 
 Deployed link of Website  &thinsp; ![Project-1](https://img.shields.io/badge/Project%20-1-orange) 
 
+# [Link to Project 1](https://trend-assignment1.netlify.app/)
+
 
 <br> 
 
@@ -12,6 +14,7 @@ Deployed link of Website  &thinsp; ![Project-1](https://img.shields.io/badge/Pro
 ## What I learnt from this project?
 <br>
 
+- I learnt **HTML & CSS** in depth.
 - I learnt about **fonts** and how to identify fonts on web.
 - I learned about **CSS Positioning** properties in depth.
 - I also learnt how to create **functioning buttons**.
