@@ -1,0 +1,136 @@
+@import url("https://fonts.googleapis.com/css2?family=Bungee&family=Montserrat:wght@700&family=Orbitron:wght@400;500&family=Roboto&family=Sansita+Swashed:wght@300;400;504;600&family=Squada+One&display=swap");
+body {
+  font-family: "Orbitron";
+  overflow: hidden;
+}
+
+nav {
+  margin: 0 70px;
+}
+
+.list {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  margin-top: -39px;
+}
+.logo {
+  height: 40px;
+  margin-top: 25px;
+}
+.list-item {
+  margin: 0 35px;
+  font-size: 20px;
+  font-weight: 500;
+}
+.list-item:hover {
+  font-size: 21px;
+  font-weight: 900;
+  border-bottom: 4px solid black;
+  cursor: pointer;
+}
+
+.button-group {
+  display: flex;
+  justify-content: flex-end;
+  margin-top: -45px;
+}
+.search-icon {
+  margin-top: 5px;
+  margin-right: 20px;
+}
+.search-icon > svg {
+  height: 25px;
+}
+.nav-button {
+  padding: 5px 50px;
+  border-radius: 15px;
+  font-size: 20px;
+  border: 3px solid black;
+  font-family: "Monserrat";
+  color: grey;
+  font-weight: 500;
+  letter-spacing: 1px;
+}
+
+.hero {
+  height: 500px;
+  position: relative;
+  top: -380px;
+  left: 80px;
+}
+
+.square {
+  position: relative;
+  top: 200px;
+  left: 135px;
+}
+
+.star {
+  position: relative;
+  top: 182px;
+  left: 205px;
+}
+.star1 {
+  position: relative;
+  left: 750px;
+  top: -280px;
+  height: 20px;
+}
+
+.globe > img {
+  position: relative;
+  top: -300px;
+  left: 20%;
+  height: 60px;
+}
+
+.hero-container-right {
+  position: absolute;
+  left: 48%;
+  top: 10%;
+  text-align: center;
+  margin-top: 150px;
+}
+.hero-heading {
+  font-size: 50px;
+}
+.hero-description {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: 600;
+  color: grey;
+  width: 600px;
+  margin: auto;
+}
+
+
+
+.email {
+  margin-top: 50px;
+}
+
+.button-email {
+  margin-top: 20px;
+  padding: 5px 25px;
+  border-radius: 15px;
+  font-size: 20px;
+  border: 2px solid black;
+  font-family: "Orbitron";
+  color: grey;
+}
+.button-join {
+  padding: 5px 25px;
+  border-radius: 15px;
+  font-size: 20px;
+  border: 2px solid black;
+  font-family: "Orbitron";
+  color: #ffffff;
+  background-color: #000000;
+}
+.links {
+  margin-top: 75px;
+  font-size: 20px;
+}
+.icons > span > img {
+  margin: 0 10px;
+}
