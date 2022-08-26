@@ -1,9 +1,10 @@
 @import url("https://fonts.googleapis.com/css2?family=Bungee&family=Montserrat:wght@700&family=Orbitron:wght@400;500&family=Roboto&family=Sansita+Swashed:wght@300;400;504;600&family=Squada+One&display=swap");
+
 body {
   font-family: "Orbitron";
   overflow: hidden;
 }
-
+/* Navbar  */
 nav {
   margin: 0 70px;
 }
@@ -14,15 +15,18 @@ nav {
   justify-content: center;
   margin-top: -39px;
 }
+
 .logo {
   height: 40px;
   margin-top: 25px;
 }
+
 .list-item {
   margin: 0 35px;
   font-size: 20px;
   font-weight: 500;
 }
+
 .list-item:hover {
   font-size: 21px;
   font-weight: 900;
@@ -35,13 +39,16 @@ nav {
   justify-content: flex-end;
   margin-top: -45px;
 }
+
 .search-icon {
   margin-top: 5px;
   margin-right: 20px;
 }
-.search-icon > svg {
+
+.search-icon>svg {
   height: 25px;
 }
+
 .nav-button {
   padding: 5px 50px;
   border-radius: 15px;
@@ -52,6 +59,8 @@ nav {
   font-weight: 500;
   letter-spacing: 1px;
 }
+
+/* hero section  */
 
 .hero {
   height: 500px;
@@ -71,6 +80,7 @@ nav {
   top: 182px;
   left: 205px;
 }
+
 .star1 {
   position: relative;
   left: 750px;
@@ -78,7 +88,7 @@ nav {
   height: 20px;
 }
 
-.globe > img {
+.globe>img {
   position: relative;
   top: -300px;
   left: 20%;
@@ -92,9 +102,11 @@ nav {
   text-align: center;
   margin-top: 150px;
 }
+
 .hero-heading {
   font-size: 50px;
 }
+
 .hero-description {
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   font-weight: 600;
@@ -116,6 +128,7 @@ nav {
   font-family: "Orbitron";
   color: grey;
 }
+
 .button-join {
   padding: 5px 25px;
   border-radius: 15px;
@@ -125,10 +138,12 @@ nav {
   color: #ffffff;
   background-color: #000000;
 }
+
 .links {
   margin-top: 75px;
   font-size: 20px;
 }
-.icons > span > img {
+
+.icons span img {
   margin: 0 10px;
 }
